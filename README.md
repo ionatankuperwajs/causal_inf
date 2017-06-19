@@ -1,1 +1,1 @@
-# causal_inf
+# Causal Inference Project for JUS 2017
